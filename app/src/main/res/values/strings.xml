@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">myfitnesscal</string>
+    <string name="weight">Weight</string>
+    <string name="bmr">BMR</string>S
+    <string name="bmi">BMI</string>
+    <string name="enter_your_weight">Enter your weight (in kg)</string>
+    <string name="height">Height</string>
+    <string name="enter_your_height">Enter your height (in metre)</string>
+    <string name="age">Age</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="your_activity_level">Your activity level</string>
+    <string name="activity_level">Activity</string>
+    <string name="energy">TDEE</string>
+    <string name="submit">Calculate</string>
+    <string name="_2000_kcl">2000 kcl</string>
+    <string name="water_intake">Water</string>
+</resources>
